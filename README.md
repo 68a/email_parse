@@ -1,0 +1,1 @@
+Read Email then insert to database
